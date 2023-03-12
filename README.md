@@ -23,7 +23,7 @@
   </a>  
   <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
 </h2>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 4000px"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink"><img alt="ai" align="right" height="30" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" style="max-width: 600%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 4 px"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink"><img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" style="max-width: 600%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="hhttps://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" target="_blank">
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
