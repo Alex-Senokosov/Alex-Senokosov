@@ -24,7 +24,7 @@
   <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
 </h2>
 <p dir="auto">
-  <animated-image data-catalyst="" style="float: right; width: 100px; height: 400px; max-width: 600%; display: inline-block;" data-stretching="vertical">
+  <animated-image data-catalyst="" style="float: right; width: 50px; height: 400px; max-width: 100%; display: inline-block;" data-stretching="vertical">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalLink">
       <img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalImage">
     </a>
