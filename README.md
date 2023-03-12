@@ -26,7 +26,7 @@
 <p dir="auto">
   <animated-image data-catalyst="" style="float: right; width: 50px; height: 400px; max-width: 100%; display: inline-block;" data-stretching="vertical">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalLink">
-      <img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalImage">
+      <img alt="ai" align="right" height="400" width="50" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalImage">
     </a>
     <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
       <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" target="_blank"></a>
