@@ -21,13 +21,13 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://i.gifer.com/Jfw2.gif" target="_blank">
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="">✏️ 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="">📫 📧</g-emoji> Contact with me: <strong><a href="mailto:alexsenokosov666@gmail.com">alexsenokosov666@gmail.com</a></strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="">📫 </g-emoji> Contact with me: <strong><a href="mailto:alexsenokosov666@gmail.com">alexsenokosov666@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">💻 👀 </g-emoji> Fact: <strong> I`m coding right now</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">💻  </g-emoji> Fact: <strong> I`m coding right now</strong></p>
 </li>
 </li>
 </ul>
@@ -39,12 +39,15 @@
 <h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages and Tools:</h3>
 <p align="left" dir="auto"> <p align="left" dir="auto"> 
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://flask.palletsprojects.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667" alt="flask" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="max-width: 100%;"> </a>
+<a href="https://www.jetbrains.com/ru-ru/pycharm/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://code.visualstudio.com" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://aiogram.dev/" rel="nofollow"> <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.sqlite.org/index.html" rel="nofollow"> <img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-</p>
-</article>
+<a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://flask.palletsprojects.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/cb2324a4c0e1910089f481d56e1f887d6e96114101987dfbb6ef6f9df1e0bf08/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667" alt="flask" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="max-width: 100%;"> </a>
+<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3.org/Style/CSS/" rel="nofollow"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://sentry.io/welcome/" rel="nofollow"> <img src="https://brandslogos.com/wp-content/uploads/images/large/sentry-logo-black-and-white.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
