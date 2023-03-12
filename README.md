@@ -17,8 +17,8 @@
 <h3 style="text-align:center;"><a id="user-content" class="anchor" aria-hidden="true" href="#a-passionate-machine-learning-student-from-india"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Junior python developer</h3>
 <hr>
 <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
-        <img alt="ai" align="right" height="500" src="https://avatars.dzeninfra.ru/get-zen_doc/3618266/pub_5f1182381015531af6e4ab7c_5f1183926e665c07d059112b/orig" style="max-width: 150%; display: inline-block;">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif">
+        <img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" style="max-width: 100%; display: inline-block;">
     </a>
 </p> 
 <li>
