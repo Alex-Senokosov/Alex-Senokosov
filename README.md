@@ -23,14 +23,16 @@
   </a>  
   <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
 </h2>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 100px; max-width: 600% " data-stretching="none">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink">
-    <img alt="ai" align="right" height="300" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalImage">
-  </a>
-  <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-    <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" target="_blank"></a>
-  </span>
-</animated-image></p>
+<p dir="auto">
+  <animated-image data-catalyst="" style="float: right; width: 100px; max-width: 600%; display: inline-block;" data-stretching="vertical">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink">
+      <img alt="ai" align="right" height="300" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalImage">
+    </a>
+    <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+      <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" target="_blank"></a>
+    </span>
+  </animated-image>
+</p>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="">📫 </g-emoji> Contact with me: <strong><a href="mailto:alexsenokosov666@gmail.com">alexsenokosov666@gmail.com</a></strong></p>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">💻  </g-emoji> Fact: <strong> I`m coding right now</strong></p>
