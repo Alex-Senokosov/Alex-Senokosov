@@ -23,19 +23,12 @@
   </a>  
   <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
 </h2>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 500px"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink"><img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" style="max-width: 60%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 500px"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink"><img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" style="max-width: 500%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="hhttps://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" target="_blank">
-<li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
-</li>
-<li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="">📫 </g-emoji> Contact with me: <strong><a href="mailto:alexsenokosov666@gmail.com">alexsenokosov666@gmail.com</a></strong></p>
-</li>
-<li>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">💻  </g-emoji> Fact: <strong> I`m coding right now</strong></p>
-</li>
-
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Find me here: </h3>
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/алексей-сенокосов-180166261/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur pimpude" height="30" width="40" style="max-width: 100%;"></a>
