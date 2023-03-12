@@ -1,7 +1,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <p dir="auto">
     <a href="" rel="nofollow">
-      <img src="https://img.freepik.com/premium-vector/programmers-working-concept-in-flat-design-developer-creates-software-coding-testing-and-optimization-programs-working-on-computers-in-office-employee-workplace-people-scene-vector-illustration_198565-819.jpg?w=1800" alt="MasterHead" data-canonical-src="" style="max-width: 100%;">
+      <img src="https://oir.mobi/uploads/posts/2022-08/1661349373_1-oir-mobi-p-fon-programmirovanie-instagram-1.jpg" alt="MasterHead" data-canonical-src="" style="max-width: 100%;">
     </a>
   </p>
 </article>
