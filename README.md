@@ -23,9 +23,9 @@
   </a>  
   <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
 </h2>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 500px"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink"><img alt="ai" align="right" height="400" src="https://avatars.dzeninfra.ru/get-zen_doc/3618266/pub_5f1182381015531af6e4ab7c_5f1183926e665c07d059112b/orig" data-canonical-src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif" style="max-width: 150%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 500px"><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink"><img alt="ai" align="right" height="400" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" style="max-width: 150%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://avatars.dzeninfra.ru/get-zen_doc/3618266/pub_5f1182381015531af6e4ab7c_5f1183926e665c07d059112b/orig" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="hhttps://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" target="_blank">
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
 </li>
