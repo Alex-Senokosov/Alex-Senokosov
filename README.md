@@ -51,7 +51,6 @@
 <a href="https://www.sqlite.org/index.html" rel="nofollow"> <img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <p align="left" dir="auto"> <p align="left" dir="auto"> 
 <a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://flask.palletsprojects.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/Style/CSS/" rel="nofollow"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
