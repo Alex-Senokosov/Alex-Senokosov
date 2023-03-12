@@ -21,7 +21,7 @@
       </path>
     </svg>
   </a>  
-  <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
+  <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Python developer
 </h2>
 <p dir="auto">
   <animated-image data-catalyst="" style="float: right; width: 550px; height: 400px; max-width: 100%; display: inline-block;" data-stretching="vertical">
