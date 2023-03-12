@@ -23,7 +23,7 @@
   </a>  
   <g-emoji class="g-emoji" alias="wave" fallback-src=""></g-emoji> Junior python developer
 </h2>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 100px; max-width: 600%; display: inline-block;" data-stretching="none">
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 100px; max-width: 600% " data-stretching="none">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://i.gifer.com/U81v.mp4" data-target="animated-image.originalLink">
     <img alt="ai" align="right" height="300" src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-canonical-src="https://images.stopgame.ru/uploads/users/2020/521889/r912x500/48bOnlPeKaTuIcjZJW3l1A/00002.WOtiYeX.gif" data-target="animated-image.originalImage">
   </a>
