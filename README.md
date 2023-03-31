@@ -33,7 +33,7 @@
     </span>
   </animated-image>
 </p>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>React.js</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=""> 📓</g-emoji> I’m currently learning: <strong>JS, DRF</strong></p>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="">📫 </g-emoji> Contact with me: <strong><a href="mailto:alexsenokosov666@gmail.com">alexsenokosov666@gmail.com</a></strong></p>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">💻  </g-emoji> Fact: <strong> I`m coding right now</strong></p>
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Find me here: </h3>
@@ -48,11 +48,13 @@
 <a href="https://code.visualstudio.com" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://aiogram.dev/" rel="nofollow"> <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.sqlite.org/index.html" rel="nofollow"> <img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.sqlite.org/index.html" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <p align="left" dir="auto"> <p align="left" dir="auto"> 
 <a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.w3.org/Style/CSS/" rel="nofollow"> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3.org/Style/CSS/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://sentry.io/welcome/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://docs.newrelic.com/" rel="nofollow"> <img src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical.png" alt="HTML" width="40" height="40" style="max-width: 100%;"> </a>
+
+<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" rel="nofollow"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640" alt="react" width="40" height="40" style="max-width: 100%;"> </a><a href="https://www.django-rest-framework.org" rel="nofollow"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
